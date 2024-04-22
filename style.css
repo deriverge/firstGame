@@ -7,8 +7,8 @@ body, html{
 #herniKostka{
     position: absolute;
     background-color: rgba(43, 118, 93, .9);
-    width: 7em;
-    height: 7em;
+    width: 112px;
+    height: 112px;
     margin: 10px;
     border-radius: 1em;
     -webkit-border-radius: 1em;
